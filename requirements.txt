@@ -1,0 +1,38 @@
+# Core Python Data & Math Libraries
+numpy
+pandas
+scipy
+
+# Data Visualization
+matplotlib
+seaborn
+plotly
+
+# Machine Learning Algorithms (Regression, Classification, Clustering, etc.)
+scikit-learn
+
+# Deep Learning (for Neural Networks: MLP, CNN, RNN)
+tensorflow
+keras
+
+# Model Evaluation & Feature Engineering
+xgboost
+lightgbm
+imblearn
+
+# Streamlit & Gradio for ML App Deployment
+streamlit
+gradio
+
+# Data Preprocessing & Utilities
+joblib
+statsmodels
+
+# Dimensionality Reduction & PCA
+umap-learn
+
+# Optional (for Jupyter Notebooks)
+notebook
+jupyterlab
+
+
